@@ -2,6 +2,7 @@
 
 namespace Ericlagarda\NovaTextCard;
 
+use Illuminate\Support\Str;
 use Laravel\Nova\Card;
 
 class TextCard extends Card
