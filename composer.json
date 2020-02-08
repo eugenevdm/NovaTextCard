@@ -1,6 +1,6 @@
 {
-    "name": "ericlagarda/nova-text-card",
-    "description": "A custom card for Laravel Nova to show Text in cards with some good options",
+    "name": "eugenevdm/nova-text-card",
+    "description": "A fork of Eric Lagarda's custom card for Laravel Nova to show Text in cards with some good options",
     "keywords": [
         "laravel",
         "nova",
