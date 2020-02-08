@@ -132,7 +132,7 @@ class TextCard extends Card
     public function jsonSerialize()
     {
         return array_merge([
-            'name'  => str_random(16),
+            'name'  => Str::random(16),
             'width' => $this->width,
         ], parent::jsonSerialize());
     }
